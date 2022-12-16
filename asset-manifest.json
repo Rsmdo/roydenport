@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/dadport3/static/css/main.176b99b4.css",
-    "main.js": "/dadport3/static/js/main.4ecb1cf9.js",
+    "main.js": "/dadport3/static/js/main.eaa536f2.js",
     "static/js/787.89029a39.chunk.js": "/dadport3/static/js/787.89029a39.chunk.js",
     "static/media/cloudBg-1.png": "/dadport3/static/media/cloudBg-1.3dbc78be69ba21d43460.png",
     "static/media/webdev.svg": "/dadport3/static/media/webdev.4d72dbba32efee3890cef9bcacce7aa7.svg",
     "index.html": "/dadport3/index.html",
     "main.176b99b4.css.map": "/dadport3/static/css/main.176b99b4.css.map",
-    "main.4ecb1cf9.js.map": "/dadport3/static/js/main.4ecb1cf9.js.map",
+    "main.eaa536f2.js.map": "/dadport3/static/js/main.eaa536f2.js.map",
     "787.89029a39.chunk.js.map": "/dadport3/static/js/787.89029a39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.176b99b4.css",
-    "static/js/main.4ecb1cf9.js"
+    "static/js/main.eaa536f2.js"
   ]
 }
