@@ -40,7 +40,7 @@ const Home = () => {
               </span>
             </h1>
             <p className= "mt-3 text-base font-extrabold tracking-light text-black sm:mt-7 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-7 md:text-xl lg:mx-0">
-              A man who wants to enlighten the world with Gods Word
+             Enlighten the world with Gods Word
             </p>
             <div className="flex md:justify-start ">
               {contactLinks.map((el) => (

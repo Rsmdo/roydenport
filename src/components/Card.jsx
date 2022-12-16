@@ -28,7 +28,7 @@ const Card2 = () => {
       }}
       class="max-w-xl bg-white rounded-lg border border-gray-200 shadow-lg dark:bg-gray-800 dark:border-gray-700 my-8"
     >
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/lqoolp4dDBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/yTp4EPpR-ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </motion.div>
   );
 };
@@ -43,7 +43,7 @@ const Card3 = () => {
       }}
       class="max-w-xl bg-white rounded-lg border border-gray-200 shadow-lg dark:bg-gray-800 dark:border-gray-700 my-8"
     >
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/iZ36iZsqeyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/PnoPkrW0khU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </motion.div>
   );
 };
@@ -77,6 +77,5 @@ const Card5 = () => {
     </motion.div>
   );
 };
-
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {Card1,Card2,Card3,Card4,Card5};
